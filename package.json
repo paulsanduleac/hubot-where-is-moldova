@@ -1,7 +1,7 @@
 {
   "name": "hubot-where-is-moldova",
   "description": "Hubot script to tell people about Moldova",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Paul Sanduleac",
   "license": "MIT",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-where-is-moldova.git"
+    "url": "git://github.com/paulsanduleac/hubot-where-is-moldova.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-where-is-moldova/issues"
+    "url": "https://github.com/paulsanduleac/hubot-where-is-moldova/issues"
   },
 
   "dependencies": {
