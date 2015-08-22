@@ -16,6 +16,7 @@ module.exports = (robot) ->
   	answer = [
   				'Mulidova? This is somewhere in Russia, right?',
   				'The Moldovans are everywhere so it does not matter anymore!',
+  				'Somewhere you've never been. http://i.imgur.com/sYTnbJw.gif',
   				'Son, trust me, you do not want to know.'
   			]
   	res.send res.random answer
